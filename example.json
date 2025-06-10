@@ -1,8 +1,8 @@
 {
     "channels": {
         "ChannelOne": "https://hooks.slack.com/xxxxxxxx",
-		"ChannelTwo": "https://hooks.slack.com/xxxxxxxx"
-		"ChannelThree": "https://hooks.slack.com/xxxxxxxx"
+	"ChannelTwo": "https://hooks.slack.com/xxxxxxxx",
+	"ChannelThree": "https://hooks.slack.com/xxxxxxxx",
         "ChannelFour": "https://hooks.slack.com/xxxxxxxx"
     }
 }
