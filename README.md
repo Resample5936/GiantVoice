@@ -11,7 +11,7 @@ This script relies on Slack webhooks (specially coded URLs) to send one message 
 </ol>
 It may be necessary to install the requests function into your Python installation.<br> 
     pip install requests
-Finally, modify line 13 of the GiantVoice.py file to point to the JSON file location.
-
+<br>Finally, modify line 13 of the GiantVoice.py file to point to the JSON file location.
+<br>
 #Use
 When the program is run, it will prompt the user for a message. Simply type something and hit enter! 
